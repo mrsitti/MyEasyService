@@ -17,10 +17,11 @@
     <!--img-->
 
     <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="@dimen/margin"
-        android:src="@drawable/logo"
-        android:layout_width="250dp"
-        android:layout_height="250dp" />
+        android:scaleType="center"
+        android:src="@drawable/logo" />
 
     <!--pink_view-->
     <!--ส่วนแสดงวิวสีชมพู กด Ctrl+/ ใส่คอเมเม้นท์บรรทัดที่ตัวกระพริบอยู่-->
