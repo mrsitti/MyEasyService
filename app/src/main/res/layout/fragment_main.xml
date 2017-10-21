@@ -27,18 +27,18 @@
 
     <!--pink_view-->
     <!--ส่วนแสดงวิวสีชมพู กด Ctrl+/ ใส่คอเมเม้นท์บรรทัดที่ตัวกระพริบอยู่-->
-    <!--<view-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="@dimen/icon"-->
-        <!--android:layout_margin="@dimen/margin"-->
-        <!--android:background="@color/colorAccent" />-->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/icon"
+        android:layout_margin="@dimen/margin"
+        android:background="@color/colorAccent" />
 
-    <!--blue-->
-    <!--<view-->
-    <!--android:layout_marginLeft="@dimen/margin"-->
-    <!--android:layout_width="@dimen/icon"-->
-    <!--android:layout_height="@dimen/icon"-->
-    <!--android:background="@color/colorPrimary" />-->
+    blue
+    <View
+    android:layout_marginLeft="@dimen/margin"
+    android:layout_width="@dimen/icon"
+    android:layout_height="@dimen/icon"
+    android:background="@color/colorPrimary" />
 
 
 
