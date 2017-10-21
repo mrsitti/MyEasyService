@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--this is text  view-->
+    <TextView
+        android:text="Sitti"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:textSize="@dimen/h1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin"
+        />
+    <!--img-->
+
+    <ImageView
+        android:layout_margin="@dimen/margin"
+        android:src="@drawable/logo"
+        android:layout_width="250dp"
+        android:layout_height="250dp" />
+
+    <!--pink_view-->
+    <!--ส่วนแสดงวิวสีชมพู กด Ctrl+/ ใส่คอเมเม้นท์บรรทัดที่ตัวกระพริบอยู่-->
+    <view
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/icon"
+    android:layout_margin="@dimen/margin"
+    android:background="@color/colorAccent" />
+
+    <!--blue-->
+    <view
+    android:layout_marginLeft="@dimen/margin"
+    android:layout_width="@dimen/icon"
+    android:layout_height="@dimen/icon"
+    android:background="@color/colorPrimary" />
+
+
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icon">70dp</dimen>
+    <dimen name="h1">24sp</dimen>
+    <dimen name="h2">18sp</dimen>
+    <dimen name="margin">26dp</dimen>
+    <dimen name="img">200dp</dimen>
+</resources>
