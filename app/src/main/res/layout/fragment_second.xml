@@ -16,9 +16,19 @@
         android:layout_height="wrap_content" />
 
     <!--Img-->
+    <ImageView
+        android:src="@drawable/logo"
+        android:layout_width="@dimen/icon2"
+        android:layout_height="@dimen/icon2" />
 
 
     <!--Back Button Control-->
-
+        <Button
+            android:layout_marginTop="@dimen/top10"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="#ffffff"
+            android:text="Back"
+            android:layout_width="@dimen/icon2"
+            android:layout_height="wrap_content" />
 
 </LinearLayout>

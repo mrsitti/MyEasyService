@@ -5,4 +5,6 @@
     <dimen name="h2">18sp</dimen>
     <dimen name="margin">26dp</dimen>
     <dimen name="img">200dp</dimen>
+    <dimen name="icon2">200dp</dimen>
+    <dimen name="top10">10sp</dimen>
 </resources>
