@@ -7,4 +7,5 @@
     <dimen name="img">200dp</dimen>
     <dimen name="icon2">200dp</dimen>
     <dimen name="top10">10sp</dimen>
+    <dimen name="space5sp">5sp</dimen>
 </resources>
