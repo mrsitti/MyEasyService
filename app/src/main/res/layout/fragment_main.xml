@@ -33,13 +33,21 @@
         android:layout_margin="@dimen/margin"
         android:background="@color/colorAccent" />
 
-    blue
+    <!--blue-->
     <View
     android:layout_marginLeft="@dimen/margin"
     android:layout_width="@dimen/icon"
     android:layout_height="@dimen/icon"
     android:background="@color/colorPrimary" />
 
-
-
+    <!--Button Goto Second page-->
+    <Button
+        android:id="@+id/btnGoToSecound"
+        android:layout_marginTop="@dimen/top10"
+        android:textColor="#ffffff"
+        android:text="Goto Second Page"
+        android:background="@color/colorPrimary"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="@dimen/icon2"
+        android:layout_height="wrap_content" />
 </LinearLayout>

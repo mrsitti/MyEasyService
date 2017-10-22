@@ -17,7 +17,7 @@
 
     <!--Img-->
     <ImageView
-        android:src="@drawable/logo"
+        android:src="@drawable/hero"
         android:layout_width="@dimen/icon2"
         android:layout_height="@dimen/icon2" />
 
