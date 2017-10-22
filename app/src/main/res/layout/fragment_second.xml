@@ -8,7 +8,7 @@
     <!--Title-->
     <TextView
         android:layout_margin="@dimen/margin"
-        android:text="@string/app_name"
+        android:text="กัปตันเมกา"
         android:textColor="@color/colorPrimaryDark"
         android:textStyle="bold"
         android:textSize="@dimen/h1"
@@ -24,6 +24,8 @@
 
     <!--Back Button Control-->
         <Button
+
+            android:id="@+id/btnBack"
             android:layout_marginTop="@dimen/top10"
             android:background="@color/colorPrimaryDark"
             android:textColor="#ffffff"
